@@ -1,1 +1,0 @@
-https://www.codeproject.com/Articles/12093/Using-RichEditCtrl-to-Display-Formatted-Logs
